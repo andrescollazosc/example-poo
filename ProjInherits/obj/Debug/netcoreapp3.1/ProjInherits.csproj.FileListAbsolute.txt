@@ -1,0 +1,6 @@
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits\bin\Debug\netcoreapp3.1\ProjInherits.exe
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits\obj\Debug\netcoreapp3.1\ProjInherits.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits\obj\Debug\netcoreapp3.1\ProjInherits.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits\obj\Debug\netcoreapp3.1\ProjInherits.AssemblyInfo.cs
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits\obj\Debug\netcoreapp3.1\ProjInherits.dll
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits\obj\Debug\netcoreapp3.1\ProjInherits.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits_1\bin\Debug\ProjInherits_1.exe.config
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits_1\bin\Debug\ProjInherits_1.exe
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits_1\bin\Debug\ProjInherits_1.pdb
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits_1\obj\Debug\ProjInherits_1.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits_1\obj\Debug\ProjInherits_1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits_1\obj\Debug\ProjInherits_1.exe
+C:\Users\Andres\source\repos\SlnPoo\ProjInherits_1\obj\Debug\ProjInherits_1.pdb
